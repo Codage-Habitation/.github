@@ -1,5 +1,4 @@
-https://raw.githubusercontent.com/Codage-Habitation/.github/main/images/Codage%20Habitation%20GitHub.png
-
+![Codage Habitation](https://raw.githubusercontent.com/Codage-Habitation/.github/main/images/Codage%20Habitation%20GitHub.png)
 <!--
 
 **Here are some ideas to get you started:**

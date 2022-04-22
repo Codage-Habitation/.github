@@ -2,7 +2,7 @@
 
 
 <h2 align="center">
- Technology Stack. <img src="https://github.com/Codage-Habitation/.github/blob/main/images/Technology%20Stack%20Icon.png" width="50">
+ Technology Stack. <img src="https://github.com/Codage-Habitation/.github/blob/main/images/Technology%20Stack%20Icon.png" width="30">
 </h2>
 <p align="center">
 <img src="https://github.com/Codage-Habitation/.github/blob/main/images/Codage%20Habitation%20Tech%20stack.gif">

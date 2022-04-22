@@ -4,7 +4,7 @@
   Blog & Writing <img src="https://github.com/Codage-Habitation/.github/blob/main/images/Writing%20Icon.png" width="25">
 </h2>
 <p align="center">
-Apart from coding, we also maintain a blog - you can find our articles related technologies on our website at Codage Habitation as well as on Medium or Quora.
+Apart from coding, We also write a blog - You can find our articles related technologies on our website at [Codage Habitation](https://codagehabitation.com/blogs/) as well as on Medium or [Quora](https://www.quora.com/profile/Codage-Habitation).
 </p>
 
 <h2 align="center">

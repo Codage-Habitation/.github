@@ -1,7 +1,12 @@
 ![Codage Habitation](https://raw.githubusercontent.com/Codage-Habitation/.github/main/images/Codage%20Habitation%20GitHub.png)
 
 
+<h2 align="center">
+ Technology Stack. <img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif" width="50">
+</h2>
+<p align="center">
 
+</p>
 
 <h2 align="center">
   Codage Habitation Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">

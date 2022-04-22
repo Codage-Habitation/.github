@@ -5,7 +5,7 @@
  Technology Stack. <img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif" width="50">
 </h2>
 <p align="center">
-
+<img src="https://github.com/Codage-Habitation/.github/blob/main/images/Codage%20Habitation%20Tech%20stack.gif">
 </p>
 
 <h2 align="center">

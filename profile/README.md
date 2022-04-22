@@ -1,15 +1,15 @@
 ![Codage Habitation](https://raw.githubusercontent.com/Codage-Habitation/.github/main/images/Codage%20Habitation%20GitHub.png)
 
 
-<h2 align="left">
- <img src="https://github.com/Codage-Habitation/.github/blob/main/images/Technology%20Stack%20Icon.png" width="25"> Technology Stack. 
+<h2 align="center">
+  Technology Stack. <img src="https://github.com/Codage-Habitation/.github/blob/main/images/Technology%20Stack%20Icon.png" width="25">
 </h2>
 <p align="center">
 <img src="https://github.com/Codage-Habitation/.github/blob/main/images/Codage%20Habitation%20Tech%20stack.gif">
 </p>
 
-<h2 align="left">
-  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="25"> Codage Habitation Contribution Graph 
+<h2 align="center">
+   Codage Habitation Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="25">
 </h2>
 
 <p align = "center">

@@ -1,11 +1,28 @@
 ![Codage Habitation](https://raw.githubusercontent.com/Codage-Habitation/.github/main/images/Codage%20Habitation%20GitHub.png)
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h2 align="center">
+ Technology Stack. <img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif" width="50">
+</h2>
+<p align="center">
+
+</p>
+
+<h2 align="center">
+  Codage Habitation Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=codagehabitation&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codagehabitation&hide=shaderlab,kotlin,hlsl&theme=radical">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=codagehabitation&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=codagehabitation&theme=redical">
+</p> 
+<hr>
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>
